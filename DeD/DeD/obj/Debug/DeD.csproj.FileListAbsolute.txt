@@ -1,0 +1,6 @@
+c:\users\iago.gazzara\source\repos\DeD\DeD\bin\Debug\DeD.exe.config
+c:\users\iago.gazzara\source\repos\DeD\DeD\bin\Debug\DeD.exe
+c:\users\iago.gazzara\source\repos\DeD\DeD\bin\Debug\DeD.pdb
+c:\users\iago.gazzara\source\repos\DeD\DeD\obj\Debug\DeD.csproj.CoreCompileInputs.cache
+c:\users\iago.gazzara\source\repos\DeD\DeD\obj\Debug\DeD.exe
+c:\users\iago.gazzara\source\repos\DeD\DeD\obj\Debug\DeD.pdb

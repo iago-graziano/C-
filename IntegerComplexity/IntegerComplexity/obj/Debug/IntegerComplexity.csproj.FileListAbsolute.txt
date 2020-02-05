@@ -1,0 +1,7 @@
+C:\Users\iago.gazzara\Desktop\C#\Daily Programmer\IntegerComplexity\IntegerComplexity\bin\Debug\IntegerComplexity.exe.config
+C:\Users\iago.gazzara\Desktop\C#\Daily Programmer\IntegerComplexity\IntegerComplexity\bin\Debug\IntegerComplexity.exe
+C:\Users\iago.gazzara\Desktop\C#\Daily Programmer\IntegerComplexity\IntegerComplexity\bin\Debug\IntegerComplexity.pdb
+C:\Users\iago.gazzara\Desktop\C#\Daily Programmer\IntegerComplexity\IntegerComplexity\obj\Debug\IntegerComplexity.csprojAssemblyReference.cache
+C:\Users\iago.gazzara\Desktop\C#\Daily Programmer\IntegerComplexity\IntegerComplexity\obj\Debug\IntegerComplexity.csproj.CoreCompileInputs.cache
+C:\Users\iago.gazzara\Desktop\C#\Daily Programmer\IntegerComplexity\IntegerComplexity\obj\Debug\IntegerComplexity.exe
+C:\Users\iago.gazzara\Desktop\C#\Daily Programmer\IntegerComplexity\IntegerComplexity\obj\Debug\IntegerComplexity.pdb

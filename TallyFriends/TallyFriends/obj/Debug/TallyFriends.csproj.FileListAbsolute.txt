@@ -1,0 +1,7 @@
+C:\Users\iago.gazzara\Desktop\C#\Daily Programmer\TallyFriends\TallyFriends\bin\Debug\TallyFriends.exe.config
+C:\Users\iago.gazzara\Desktop\C#\Daily Programmer\TallyFriends\TallyFriends\bin\Debug\TallyFriends.exe
+C:\Users\iago.gazzara\Desktop\C#\Daily Programmer\TallyFriends\TallyFriends\bin\Debug\TallyFriends.pdb
+C:\Users\iago.gazzara\Desktop\C#\Daily Programmer\TallyFriends\TallyFriends\obj\Debug\TallyFriends.csprojAssemblyReference.cache
+C:\Users\iago.gazzara\Desktop\C#\Daily Programmer\TallyFriends\TallyFriends\obj\Debug\TallyFriends.csproj.CoreCompileInputs.cache
+C:\Users\iago.gazzara\Desktop\C#\Daily Programmer\TallyFriends\TallyFriends\obj\Debug\TallyFriends.exe
+C:\Users\iago.gazzara\Desktop\C#\Daily Programmer\TallyFriends\TallyFriends\obj\Debug\TallyFriends.pdb

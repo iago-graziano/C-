@@ -1,0 +1,14 @@
+c:\users\iago.gazzara\source\repos\DucciChallenge\DucciChallenge\bin\Debug\DucciChallenge.exe.config
+c:\users\iago.gazzara\source\repos\DucciChallenge\DucciChallenge\bin\Debug\DucciChallenge.exe
+c:\users\iago.gazzara\source\repos\DucciChallenge\DucciChallenge\bin\Debug\DucciChallenge.pdb
+c:\users\iago.gazzara\source\repos\DucciChallenge\DucciChallenge\obj\Debug\DucciChallenge.csprojAssemblyReference.cache
+c:\users\iago.gazzara\source\repos\DucciChallenge\DucciChallenge\obj\Debug\DucciChallenge.csproj.CoreCompileInputs.cache
+c:\users\iago.gazzara\source\repos\DucciChallenge\DucciChallenge\obj\Debug\DucciChallenge.exe
+c:\users\iago.gazzara\source\repos\DucciChallenge\DucciChallenge\obj\Debug\DucciChallenge.pdb
+C:\Users\iago.gazzara\Desktop\C#\Daily Programmer\DucciChallenge\DucciChallenge\bin\Debug\DucciChallenge.exe.config
+C:\Users\iago.gazzara\Desktop\C#\Daily Programmer\DucciChallenge\DucciChallenge\bin\Debug\DucciChallenge.exe
+C:\Users\iago.gazzara\Desktop\C#\Daily Programmer\DucciChallenge\DucciChallenge\bin\Debug\DucciChallenge.pdb
+C:\Users\iago.gazzara\Desktop\C#\Daily Programmer\DucciChallenge\DucciChallenge\obj\Debug\DucciChallenge.csprojAssemblyReference.cache
+C:\Users\iago.gazzara\Desktop\C#\Daily Programmer\DucciChallenge\DucciChallenge\obj\Debug\DucciChallenge.csproj.CoreCompileInputs.cache
+C:\Users\iago.gazzara\Desktop\C#\Daily Programmer\DucciChallenge\DucciChallenge\obj\Debug\DucciChallenge.exe
+C:\Users\iago.gazzara\Desktop\C#\Daily Programmer\DucciChallenge\DucciChallenge\obj\Debug\DucciChallenge.pdb

@@ -1,0 +1,7 @@
+C:\Users\iago.gazzara\Desktop\C#\Daily Programmer\TranspositionCypher\TranspositionCypher\bin\Debug\TranspositionCypher.exe.config
+C:\Users\iago.gazzara\Desktop\C#\Daily Programmer\TranspositionCypher\TranspositionCypher\bin\Debug\TranspositionCypher.exe
+C:\Users\iago.gazzara\Desktop\C#\Daily Programmer\TranspositionCypher\TranspositionCypher\bin\Debug\TranspositionCypher.pdb
+C:\Users\iago.gazzara\Desktop\C#\Daily Programmer\TranspositionCypher\TranspositionCypher\obj\Debug\TranspositionCypher.csprojAssemblyReference.cache
+C:\Users\iago.gazzara\Desktop\C#\Daily Programmer\TranspositionCypher\TranspositionCypher\obj\Debug\TranspositionCypher.csproj.CoreCompileInputs.cache
+C:\Users\iago.gazzara\Desktop\C#\Daily Programmer\TranspositionCypher\TranspositionCypher\obj\Debug\TranspositionCypher.exe
+C:\Users\iago.gazzara\Desktop\C#\Daily Programmer\TranspositionCypher\TranspositionCypher\obj\Debug\TranspositionCypher.pdb

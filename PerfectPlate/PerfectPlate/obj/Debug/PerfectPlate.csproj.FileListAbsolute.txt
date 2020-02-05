@@ -1,0 +1,7 @@
+C:\Users\iago.gazzara\Desktop\C#\Daily Programmer\PerfectPlate\PerfectPlate\bin\Debug\PerfectPlate.exe.config
+C:\Users\iago.gazzara\Desktop\C#\Daily Programmer\PerfectPlate\PerfectPlate\bin\Debug\PerfectPlate.exe
+C:\Users\iago.gazzara\Desktop\C#\Daily Programmer\PerfectPlate\PerfectPlate\bin\Debug\PerfectPlate.pdb
+C:\Users\iago.gazzara\Desktop\C#\Daily Programmer\PerfectPlate\PerfectPlate\obj\Debug\PerfectPlate.csprojAssemblyReference.cache
+C:\Users\iago.gazzara\Desktop\C#\Daily Programmer\PerfectPlate\PerfectPlate\obj\Debug\PerfectPlate.csproj.CoreCompileInputs.cache
+C:\Users\iago.gazzara\Desktop\C#\Daily Programmer\PerfectPlate\PerfectPlate\obj\Debug\PerfectPlate.exe
+C:\Users\iago.gazzara\Desktop\C#\Daily Programmer\PerfectPlate\PerfectPlate\obj\Debug\PerfectPlate.pdb
